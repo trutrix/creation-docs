@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    padding:20px;
+}
+
+h2 {
+    margin-bottom: 15px;
+    
+}
+
+body {
+    background-color: #212529;
+    color:#dee2e6;
+    font-size:14px;
+}
+
+.record_table {
+    background-color: #00000030;
+}
+
+th {
+    text-align: left;
+}
+
+th, td {
+    padding: 5px 15px;
+}
+
+hr {
+    margin: 20px 5px;
+    border: 1px solid #ffffff40;
+}
